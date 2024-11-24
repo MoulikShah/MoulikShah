@@ -163,10 +163,6 @@ I'm a passionate software developer and data scientist with expertise in buildin
 - 🌐 Portfolio: [moulikshah.vercel.app](https://moulikshah.vercel.app/)
 - 💼 LinkedIn: [moulik-shah](https://linkedin.com/in/moulik-shah)
 
-## ⚡ Fun fact
-I started my coding journey with C++ at the age of 15 and have been passionate about technology ever since!
-[Modify this with your actual fun fact]
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MoulikShah)
 
 ---
