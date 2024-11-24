@@ -5,6 +5,23 @@
 ## 🚀 About Me
 I'm a passionate software developer and data scientist with expertise in building scalable applications and deriving insights from data. Currently pursuing my Masters in Computer Engineering at NYU, I combine theoretical knowledge with practical implementation to create impactful solutions. With experience at companies like MIKO and Sykes and Ray Equities, I specialize in machine learning, NLP, and full-stack development.
 
+## 🔭 Currently Working On
+- Exploring Large Language Models and their applications
+- Building scalable ML systems
+- Contributing to open-source projects
+
+## 📚 Currently Learning
+- Advanced LLM techniques and prompt engineering
+- System Design for ML
+- Cloud Architecture and MLOps
+
+## 🔬 Research Interests
+- Natural Language Processing
+- Deep Learning & Neural Networks
+- Reinforcement Learning
+- Computer Vision
+- Quantitative Finance
+
 ## 🔗 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://moulikshah.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moulik-shah/)
@@ -51,6 +68,10 @@ I'm a passionate software developer and data scientist with expertise in buildin
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MoulikShah&theme=radical)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoulikShah&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Moulik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoulikShah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🎯 Featured Projects
 
 ### 🤖 Cross-Domain Adaptation through Soft Prompt Tuning
@@ -73,6 +94,12 @@ I'm a passionate software developer and data scientist with expertise in buildin
 - Implemented real-time classification using Gradio and Flask
 - Technologies: Python, TensorFlow, HuggingFace
 
+## 🎓 Certifications
+- Deep Learning Specialization - Coursera
+- Machine Learning - Stanford Online
+- AWS Certified Solutions Architect
+[Add/modify your actual certifications]
+
 ## 🏆 Achievements
 - Finalist at Indian Institute of Project Technology
 - The Math Company Triathon Competition Winner
@@ -84,4 +111,13 @@ I'm a passionate software developer and data scientist with expertise in buildin
 - 🌐 Portfolio: [moulikshah.vercel.app](https://moulikshah.vercel.app/)
 - 💼 LinkedIn: [moulik-shah](https://linkedin.com/in/moulik-shah)
 
+## ⚡ Fun fact
+I started my coding journey with C++ at the age of 15 and have been passionate about technology ever since!
+[Modify this with your actual fun fact]
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MoulikShah)
+
+---
+<p align="center">
+  <i>Let's connect and chat! Open to collaborating on interesting projects.</i>
+</p>
