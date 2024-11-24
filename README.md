@@ -94,17 +94,9 @@ I'm a passionate software developer and data scientist with expertise in buildin
 - Implemented real-time classification using Gradio and Flask
 - Technologies: Python, TensorFlow, HuggingFace
 
-## 🎓 Certifications
-- Deep Learning Specialization - Coursera
-- Machine Learning - Stanford Online
-- AWS Certified Solutions Architect
-[Add/modify your actual certifications]
-
 ## 🏆 Achievements
 - Finalist at Indian Institute of Project Technology
 - The Math Company Triathon Competition Winner
-- State Level Competition DJ Spark Participant
-- National Level Throwball Competition Representative
 
 ## 📫 How to reach me
 - 📧 Email: mps10088@nyu.edu
