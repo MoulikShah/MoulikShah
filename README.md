@@ -1,4 +1,3 @@
-# MoulikShah
 # Hello 👋, I'm [Moulik Shah]
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Developer+%7C+Your+Role+%7C+Your+Specialty)
